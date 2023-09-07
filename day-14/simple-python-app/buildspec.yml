@@ -24,8 +24,9 @@ phases:
   post_build:
     commands:
       - echo "Build completed successfully! Author Rohit"
+      - cd day-14/simple-python-app/
 artifacts:
   files:
     - '**/*'
-  base-directory: https://github.com/rohit106bhushan/aws-devops-zero-to-hero/tree/main/day-14/simple-python-app
+  base-directory: ../simple-python-app
 
