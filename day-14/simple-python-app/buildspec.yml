@@ -27,5 +27,5 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ../simple-python-app
+  base-directory: https://github.com/rohit106bhushan/aws-devops-zero-to-hero/tree/main/day-14/simple-python-app
 
