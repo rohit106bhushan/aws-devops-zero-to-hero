@@ -24,7 +24,7 @@ phases:
   post_build:
     commands:
       - echo "Build completed successfully! Author Rohit"
-      - cd day-14/simple-python-app/
+
 artifacts:
   files:
     - '**/*'
